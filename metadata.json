@@ -1,0 +1,23 @@
+{
+    "dataset_name": "Animals Image Dataset",
+    "version": "1.0",
+    "description": "Μικρό dataset εικόνων γάτας και σκύλου για εκπαίδευση μοντέλων ταξινόμησης εικόνας.",
+    "creator": "Χρήστης ChatGPT",
+    "license": "CC-BY 4.0",
+    "date_created": "2025-10-21",
+    "keywords": [
+        "image classification",
+        "cats",
+        "dogs",
+        "machine learning"
+    ],
+    "format": "JPEG",
+    "size": {
+        "train_images": 0,
+        "test_images": 0
+    },
+    "sources": [
+        "https://unsplash.com",
+        "https://pixabay.com"
+    ]
+}
